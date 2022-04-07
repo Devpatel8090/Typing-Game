@@ -1,0 +1,53 @@
+*{
+    background-color: black;
+}
+
+.highlight {
+    background-color: yellow;
+  }
+  
+  .error {
+    background-color: lightcoral;
+    border: red;
+  }
+
+  h1 {
+      color: blueviolet;
+      text-align: center;
+  }
+
+#quote {
+    color: blueviolet;
+    text-align: center;
+    font-size: x-large;
+}
+
+  button {
+      background-color: aquamarine;
+      border-radius: 5px;
+      text-align: center;
+      width: 10%;
+      margin-left: 50%;
+      
+    
+      color: blueviolet;
+      font-size: larger;
+  }
+
+  input {
+      width: 80%;
+      margin: 1% 9% 1% 9%;
+      border-radius: 5px;
+      border-color: aqua;
+      color: blueviolet;
+      font-size: x-large;
+      
+      
+      
+  }
+
+  .wlc__msg {
+      color: blueviolet;
+      text-align: center;
+      font-size: x-large;
+  }
